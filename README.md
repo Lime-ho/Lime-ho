@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Giho%20Nam&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Giho%20Nam&fontSize=90&descAlign=62)
 <h3 align ="center">🛠️Tech Strack🛠️</h3>
 <p align = "center">Techs that I've used at least once </p>
 
