@@ -8,5 +8,7 @@
 
 <p align = "center">📌Me📌</p>
 <p align = "center">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/lime_s_ho/">
+  <a href = "https://www.instagram.com/lime_s_ho/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lime_s_ho/">
+  <img src="https://img.shields.io/badge/lime18110060@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">                                              
                                                                                                                                                       </p>
