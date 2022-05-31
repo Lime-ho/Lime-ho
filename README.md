@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Giho%20Nam&fontSize=90)
+<h2 align = "center">![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Giho%20Nam&fontSize=90)</h2>
 <h3 align ="center">Tech Strack</h3>
 <p align = "center">Techs that I've used at least once </p>
 
@@ -8,6 +8,4 @@
 
 <p align = "center">Me</p>
 <a href="https://www.instagram.com/lime_s_ho/">
-  <p align = "center">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/lime_s_ho/">
-                                                                                                                                                      </p>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/lime_s_ho/">
