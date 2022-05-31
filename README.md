@@ -13,8 +13,6 @@
 <p align = "center">Me</p>
 
 <a align= "center" href="https://www.instagram.com/lime_s_ho/">
- <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/lime_s_ho/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+ ![](<img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/lime_s_ho/")
 </a>
 
