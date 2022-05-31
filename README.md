@@ -1,16 +1,20 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Giho%20Nam&fontSize=90)
+<h3 align ="center">Tech Strack</h3>
+<p align = "center">Techs that I've used at least once </p>
 
-<!--
-**Lime-ho/Lime-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "center">
+![](<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white")
+![](<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black")
+![](<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=aws&logoColor=white")
+![](<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white")
+![](<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white")</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">Me</p>
+
+<a align= "center" href="https://www.instagram.com/lime_s_ho/">
+ <img 
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/lime_s_ho/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
