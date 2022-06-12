@@ -5,7 +5,6 @@
 <p align = "center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"><img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white"><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=Black"></p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a2ab4944-03b5-4a1d-993d-3c0743900a34" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <p align = "center">📌Me📌</p>
 <p align = "center">
   <a href = "https://www.instagram.com/lime_s_ho/">
