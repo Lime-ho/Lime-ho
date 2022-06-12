@@ -15,6 +15,4 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/limesho/">                                                                                                                                                    </p>
     
     
-    
-    
-    <img src"https://www.credly.com/badges/a2ab4944-03b5-4a1d-993d-3c0743900a34/public_url">
+   
